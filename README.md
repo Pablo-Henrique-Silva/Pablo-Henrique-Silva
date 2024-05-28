@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas Ao Meu Perfil 🤓
 
-<!--
-**Pablo-Henrique-Silva/Pablo-Henrique-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pablo Henrique 💙
 
-Here are some ideas to get you started:
+= Sou um dos estudante da plataforma [Alura](https://www.alura.com.br).
+= Estou Me aprofundando mais na área da linguagem JavaScript.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Pode Entrar em contato comigo via 📧
+
+  00001105250179sp@al.educacao.sp.gov.br
+  
+  @1estudantealeatorio
+
+
+![](https://tenor.com/pt-BR/view/goku-ultra-instinct-flowing-hair-dragon-ball-gif-2774817207765257414)
