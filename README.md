@@ -2,8 +2,8 @@
 
 Meu nome é Pablo Henrique 💙
 
-= Sou um dos estudante da plataforma [Alura](https://www.alura.com.br).
-= Estou Me aprofundando mais na área da linguagem JavaScript.
+- Sou um dos estudante da plataforma [Alura](https://www.alura.com.br).
+- Estou Me aprofundando mais na área da linguagem JavaScript.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
   ### Pode Entrar em contato comigo via 📧
