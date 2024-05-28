@@ -11,6 +11,3 @@ Meu nome é Pablo Henrique 💙
   00001105250179sp@al.educacao.sp.gov.br
   
   @1estudantealeatorio
-
-
-![](https://tenor.com/pt-BR/view/goku-ultra-instinct-flowing-hair-dragon-ball-gif-2774817207765257414)
